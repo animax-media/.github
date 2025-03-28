@@ -1,4 +1,4 @@
-![Animax logo in front of red gradient waves](animax-github.png)
+![Animax logo in front of red gradient waves](opensource.png)
 
 Animax is a vibrant, small town community-like platform where creatives and users come together to share, connect, and thrive. Users can discover fresh content and the talented creators behind it, while creatives receive real-time feedback, recognition, and meaningful support from their community.
 
